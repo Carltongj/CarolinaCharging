@@ -1,0 +1,12 @@
+name: CarolinaChargingDashboard
+title: CarolinaChargingDashboard
+username:
+account: carltongj
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3253582
+bundleId: 3873582
+url: https://carltongj.shinyapps.io/CarolinaChargingDashboard/
+when: 1605654977.49178
+asMultiple: FALSE
+asStatic: FALSE
